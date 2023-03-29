@@ -1,0 +1,12 @@
+console.log("ingrese numero");
+let numero1=parseInt(prompt());
+console.log("ingrese numero");
+let numero2=parseInt(prompt());
+producto=numero1*numero2;
+cociente=numero1/numero2;
+suma=numero1+numero2;
+resta=numero1-numero2;
+console.log("el producto de los numeros es", producto);
+console.log("el cociente de los numeros es", cociente);
+console.log("la suma de los numeros es", suma);
+console.log("la resta de los numeros es", resta);
